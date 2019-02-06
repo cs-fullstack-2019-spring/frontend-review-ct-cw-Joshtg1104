@@ -1,3 +1,6 @@
+### POINTS: 1.5
+### Didn't handle CAT but Nice Job anyways!
+
 # Frontend Review CT complete CW
 
 ### Exercise 1:
